@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rolara57/EmployeeDirectorystatic/css/main.91c4df9f.chunk.css",
+    "main.js": "/rolara57/EmployeeDirectorystatic/js/main.963ab26f.chunk.js",
+    "main.js.map": "/rolara57/EmployeeDirectorystatic/js/main.963ab26f.chunk.js.map",
+    "runtime-main.js": "/rolara57/EmployeeDirectorystatic/js/runtime-main.c0df8d17.js",
+    "runtime-main.js.map": "/rolara57/EmployeeDirectorystatic/js/runtime-main.c0df8d17.js.map",
+    "static/css/2.ae9f1eb3.chunk.css": "/rolara57/EmployeeDirectorystatic/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.c1c3449f.chunk.js": "/rolara57/EmployeeDirectorystatic/js/2.c1c3449f.chunk.js",
+    "static/js/2.c1c3449f.chunk.js.map": "/rolara57/EmployeeDirectorystatic/js/2.c1c3449f.chunk.js.map",
+    "index.html": "/rolara57/EmployeeDirectoryindex.html",
+    "static/css/2.ae9f1eb3.chunk.css.map": "/rolara57/EmployeeDirectorystatic/css/2.ae9f1eb3.chunk.css.map",
+    "static/css/main.91c4df9f.chunk.css.map": "/rolara57/EmployeeDirectorystatic/css/main.91c4df9f.chunk.css.map",
+    "static/js/2.c1c3449f.chunk.js.LICENSE.txt": "/rolara57/EmployeeDirectorystatic/js/2.c1c3449f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c0df8d17.js",
+    "static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.c1c3449f.chunk.js",
+    "static/css/main.91c4df9f.chunk.css",
+    "static/js/main.963ab26f.chunk.js"
+  ]
+}
